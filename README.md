@@ -4,5 +4,6 @@ Fichier du défi, du site d'Harvard, réputé pour ses meilleurs cours et progra
 ```
 
 ```
-Files from the challenges, from the harvard site, recognized for top courses & programs, from the internet.
+Files from the challenges, from the Harvard's site, recognized for its top courses & programs, from the internet.
 ```
+
